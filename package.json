@@ -22,6 +22,7 @@
     "process": "^0.11.10",
     "punycode": "^1.2.4",
     "querystring-es3": "^0.2.0",
+    "react-native-fs": "^2.13.3",
     "react-native-level-fs": "^3.0.1",
     "react-native-os": "^1.2.2",
     "react-native-tcp": "^3.3.0",
